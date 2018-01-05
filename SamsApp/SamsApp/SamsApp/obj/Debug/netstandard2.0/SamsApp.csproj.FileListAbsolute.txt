@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\SamsApp\SamsApp\SamsApp\bin\Debug\netstandard2.0\SamsApp.deps.json
+C:\Users\User\source\repos\SamsApp\SamsApp\SamsApp\bin\Debug\netstandard2.0\SamsApp.dll
+C:\Users\User\source\repos\SamsApp\SamsApp\SamsApp\bin\Debug\netstandard2.0\SamsApp.pdb
+C:\Users\User\source\repos\SamsApp\SamsApp\SamsApp\obj\Debug\netstandard2.0\SamsApp.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\SamsApp\SamsApp\SamsApp\obj\Debug\netstandard2.0\SamsApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SamsApp\SamsApp\SamsApp\obj\Debug\netstandard2.0\SamsApp.App.xaml.g.cs
+C:\Users\User\source\repos\SamsApp\SamsApp\SamsApp\obj\Debug\netstandard2.0\SamsApp.MainPage.xaml.g.cs
+C:\Users\User\source\repos\SamsApp\SamsApp\SamsApp\obj\Debug\netstandard2.0\SamsApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SamsApp\SamsApp\SamsApp\obj\Debug\netstandard2.0\SamsApp.AssemblyInfo.cs
+C:\Users\User\source\repos\SamsApp\SamsApp\SamsApp\obj\Debug\netstandard2.0\SamsApp.dll
+C:\Users\User\source\repos\SamsApp\SamsApp\SamsApp\obj\Debug\netstandard2.0\SamsApp.pdb

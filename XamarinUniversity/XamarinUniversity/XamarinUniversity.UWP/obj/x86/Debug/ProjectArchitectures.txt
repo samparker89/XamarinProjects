@@ -1,0 +1,1 @@
+c:\users\user\source\repos\XamarinUniversity\XamarinUniversity\XamarinUniversity.UWP\XamarinUniversity.UWP.csproj;x86

@@ -1,0 +1,1 @@
+C:\Users\User\source\repos\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp.UWP\MyFirstXamarinApp.UWP.csproj;x86

@@ -1,0 +1,11 @@
+c:\users\user\source\repos\XamarinUniversity\XamarinUniversity\XamarinUniversity\bin\Debug\netstandard2.0\XamarinUniversity.deps.json
+c:\users\user\source\repos\XamarinUniversity\XamarinUniversity\XamarinUniversity\bin\Debug\netstandard2.0\XamarinUniversity.dll
+c:\users\user\source\repos\XamarinUniversity\XamarinUniversity\XamarinUniversity\bin\Debug\netstandard2.0\XamarinUniversity.pdb
+c:\users\user\source\repos\XamarinUniversity\XamarinUniversity\XamarinUniversity\obj\Debug\netstandard2.0\XamarinUniversity.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\XamarinUniversity\XamarinUniversity\XamarinUniversity\obj\Debug\netstandard2.0\XamarinUniversity.App.xaml.g.cs
+c:\users\user\source\repos\XamarinUniversity\XamarinUniversity\XamarinUniversity\obj\Debug\netstandard2.0\XamarinUniversity.MainPage.xaml.g.cs
+c:\users\user\source\repos\XamarinUniversity\XamarinUniversity\XamarinUniversity\obj\Debug\netstandard2.0\XamarinUniversity.AssemblyInfoInputs.cache
+c:\users\user\source\repos\XamarinUniversity\XamarinUniversity\XamarinUniversity\obj\Debug\netstandard2.0\XamarinUniversity.AssemblyInfo.cs
+c:\users\user\source\repos\XamarinUniversity\XamarinUniversity\XamarinUniversity\obj\Debug\netstandard2.0\XamarinUniversity.dll
+c:\users\user\source\repos\XamarinUniversity\XamarinUniversity\XamarinUniversity\obj\Debug\netstandard2.0\XamarinUniversity.pdb
+C:\Users\User\source\repos\XamarinUniversity\XamarinUniversity\XamarinUniversity\obj\Debug\netstandard2.0\XamarinUniversity.csprojResolveAssemblyReference.cache

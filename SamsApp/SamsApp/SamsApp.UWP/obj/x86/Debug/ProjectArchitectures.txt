@@ -1,0 +1,1 @@
+C:\Users\User\source\repos\SamsApp\SamsApp\SamsApp.UWP\SamsApp.UWP.csproj;x86
